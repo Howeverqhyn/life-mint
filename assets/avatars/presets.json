@@ -1,0 +1,10 @@
+[
+  { "id": "lin", "name": "林", "seed": "life-mint-lin", "backgroundColor": "f3eee4" },
+  { "id": "he", "name": "禾", "seed": "life-mint-he", "backgroundColor": "efe4d6" },
+  { "id": "nan", "name": "南", "seed": "life-mint-nan", "backgroundColor": "e7efe8" },
+  { "id": "man", "name": "满", "seed": "life-mint-man", "backgroundColor": "f6e6e1" },
+  { "id": "qing", "name": "青", "seed": "life-mint-qing", "backgroundColor": "e8e6f3" },
+  { "id": "shi", "name": "拾", "seed": "life-mint-shi", "backgroundColor": "f6edd9" },
+  { "id": "wei", "name": "未", "seed": "life-mint-wei", "backgroundColor": "e4eef2" },
+  { "id": "xing", "name": "星", "seed": "life-mint-xing", "backgroundColor": "f3e4dc" }
+]
